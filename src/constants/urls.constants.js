@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://kind-gray-calf-tutu.cyclic.app/https://alphanotes.innovorks.com/api/api.ashx?methodname=';
